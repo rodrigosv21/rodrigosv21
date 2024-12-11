@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend Jr`**
 
-Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonado por desenvolvimento backend.
+Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. E apaixonado por desenvolvimento backend.
 
 <p align="left">
   <!-- Ícone do LinkedIn -->
