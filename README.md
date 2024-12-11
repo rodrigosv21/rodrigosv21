@@ -119,13 +119,12 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
 />
 <img 
     align="left" 
-    alt="" 
-    title="Angulr"
+    alt="Intellij" 
+    title="Intellij"
     width="30px" 
     style="padding-right: 10px;" 
-    src="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
 />
-
 <img 
     align="left" 
     alt="Vscode" 
@@ -156,7 +155,9 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=rodrigosv21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  </p>
 
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
