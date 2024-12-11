@@ -40,7 +40,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Java"
     title="Java" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
@@ -49,7 +49,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
 />
@@ -57,7 +57,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Nodejs" 
     title="Nodejs"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
@@ -65,7 +65,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Express"
     title="Express" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
 />
@@ -73,7 +73,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Mysql"
     title="Mysql" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -81,7 +81,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Html5" 
     title="Html5"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 />
@@ -89,7 +89,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Css"
     title="Css" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -97,7 +97,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Saas" 
     title="Saas"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
@@ -105,7 +105,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Bootstrap" 
     title="Bootstrap"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" 
 />
@@ -113,7 +113,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Angular" 
     title="Angular"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
@@ -121,7 +121,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="" 
     title="Angulr"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 />
@@ -130,7 +130,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Vscode" 
     title="Vscode"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
@@ -138,7 +138,7 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     align="left" 
     alt="Git" 
     title="Git"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
