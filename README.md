@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Rodrigo Silva
 
-**`Desenvolvedor Backend Jr`**
+**`Desenvolvedor Mobile`**
 
 Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. E apaixonado por desenvolvimento Mobile.
 
