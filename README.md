@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend Jr`**
 
-Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. E apaixonado por desenvolvimento backend.
+Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. E apaixonado por desenvolvimento Mobile.
 
 <p align="left">
   <!-- Ícone do LinkedIn -->
@@ -47,11 +47,11 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
 />
 <img 
     align="left" 
-    alt="Spring" 
-    title="Spring"
+    alt="Kotlin" 
+    title="Kt"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 />
 <img 
     align="left" 
