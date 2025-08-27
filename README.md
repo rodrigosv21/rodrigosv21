@@ -55,19 +55,19 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
 />
 <img 
     align="left" 
-    alt="Nodejs" 
-    title="Nodejs"
+    alt="Jetpack Compose" 
+    title="Compose"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" 
 />
 <img 
     align="left" 
-    alt="Express"
-    title="Express" 
+    alt="Firebase"
+    title="Firebase" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
 <img 
     align="left" 
@@ -79,43 +79,11 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
 />
 <img 
     align="left" 
-    alt="Html5" 
-    title="Html5"
+    alt="Android" 
+    title="Android"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Css"
-    title="Css" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Saas" 
-    title="Saas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap" 
-    title="Bootstrap"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
 />
 <img 
     align="left" 
@@ -142,7 +110,6 @@ Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
