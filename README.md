@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Rodrigo Silva
 **`Desenvolvedor Mobile`**
 
-Olá, Me chamo Rodrigo Silva, tenho 21 anos, sou de Paraipaba-ce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. E apaixonado por desenvolvimento Mobile.
+Olá, Me chamo Rodrigo Silva, tenho 22 anos, sou de Paraipaba-ce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. E apaixonado por desenvolvimento Mobile.
 
 <p align="left">
   <!-- Ícone do LinkedIn -->
