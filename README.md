@@ -13,7 +13,7 @@ Olá, Me chamo Rodrigo Silva, tenho 22 anos, sou de Paraipaba-ce. Atualmente, es
         />
     </a>
     <!-- Ícone de Email -->
-    <a href="sddrodrigo17@gmail.com" style="display: inline-block; margin-right: 10px;">
+    <a href="rodrigodev21@gmail.com" style="display: inline-block; margin-right: 10px;">
         <img 
             alt="Email" 
             title="Envie um email" 
