@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Rodrigo Silva
 **`Desenvolvedor Mobile`**
 
-Olá, me chamo Rodrigo Silva, tenho 22 anos, sou de Paraipaba-CE. Atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar e sou apaixonado por desenvolvimento Mobile.
+Olá, me chamo Rodrigo Silva, tenho 22 anos, sou de Paraipaba-CE. Atualmente curso Análise e Desenvolvimento de Sistemas na Uniasselvi e sou apaixonado por desenvolvimento.
 
 <p align="left">
   <!-- Ícone do LinkedIn -->
@@ -50,6 +50,15 @@ Olá, me chamo Rodrigo Silva, tenho 22 anos, sou de Paraipaba-CE. Atualmente cur
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" 
 />
+<img 
+  align="left" 
+  alt="Js" 
+  title="JavaScript"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+/>
+
 <img 
   align="left" 
   alt="Firebase"
